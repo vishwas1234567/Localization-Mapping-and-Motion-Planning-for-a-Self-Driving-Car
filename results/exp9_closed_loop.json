@@ -1,0 +1,647 @@
+{
+  "agg": {
+    "gt": {
+      "n": 10,
+      "success": 10,
+      "collisions": 0,
+      "min_clearance": [
+        0.5031373902438212,
+        0.0
+      ],
+      "loc_rms": [
+        0.0,
+        0.0
+      ],
+      "loc_max": [
+        0.0,
+        0.0
+      ],
+      "cte_rms": [
+        0.15582428147827845,
+        0.0
+      ],
+      "no_plan": [
+        7.0,
+        0.0
+      ]
+    },
+    "ndt": {
+      "n": 10,
+      "success": 10,
+      "collisions": 0,
+      "min_clearance": [
+        0.4843100377682961,
+        0.023425132073068514
+      ],
+      "loc_rms": [
+        0.030544693612230223,
+        0.006864043111231333
+      ],
+      "loc_max": [
+        0.2819393073716752,
+        0.11235813978061643
+      ],
+      "cte_rms": [
+        0.1549628350035173,
+        0.0012831067399088438
+      ],
+      "no_plan": [
+        5.5,
+        1.7159383568311668
+      ]
+    },
+    "dr": {
+      "n": 10,
+      "success": 0,
+      "collisions": 10,
+      "min_clearance": [
+        -0.08290908901651842,
+        0.05330998519443743
+      ],
+      "loc_rms": [
+        0.6151494874427772,
+        0.30565300350788904
+      ],
+      "loc_max": [
+        1.297796288251412,
+        0.505607174293274
+      ],
+      "cte_rms": [
+        0.516579404057061,
+        0.24652653613411016
+      ],
+      "no_plan": [
+        1.5,
+        1.509230856356236
+      ]
+    }
+  },
+  "runs": [
+    {
+      "mode": "gt",
+      "seed": 0,
+      "success": true,
+      "collided": false,
+      "reached": true,
+      "min_clearance": 0.5031373902438212,
+      "cte_rms": 0.15582428147827845,
+      "cte_max": 0.27790711838123416,
+      "loc_rms": 0.0,
+      "loc_max": 0.0,
+      "no_plan": 7,
+      "time": 67.5999999999983,
+      "tags": {
+        "stop": 7,
+        "cruise": 22,
+        "slow_nudge": 107
+      }
+    },
+    {
+      "mode": "gt",
+      "seed": 1,
+      "success": true,
+      "collided": false,
+      "reached": true,
+      "min_clearance": 0.5031373902438212,
+      "cte_rms": 0.15582428147827845,
+      "cte_max": 0.27790711838123416,
+      "loc_rms": 0.0,
+      "loc_max": 0.0,
+      "no_plan": 7,
+      "time": 67.5999999999983,
+      "tags": {
+        "stop": 7,
+        "cruise": 22,
+        "slow_nudge": 107
+      }
+    },
+    {
+      "mode": "gt",
+      "seed": 2,
+      "success": true,
+      "collided": false,
+      "reached": true,
+      "min_clearance": 0.5031373902438212,
+      "cte_rms": 0.15582428147827845,
+      "cte_max": 0.27790711838123416,
+      "loc_rms": 0.0,
+      "loc_max": 0.0,
+      "no_plan": 7,
+      "time": 67.5999999999983,
+      "tags": {
+        "stop": 7,
+        "cruise": 22,
+        "slow_nudge": 107
+      }
+    },
+    {
+      "mode": "gt",
+      "seed": 3,
+      "success": true,
+      "collided": false,
+      "reached": true,
+      "min_clearance": 0.5031373902438212,
+      "cte_rms": 0.15582428147827845,
+      "cte_max": 0.27790711838123416,
+      "loc_rms": 0.0,
+      "loc_max": 0.0,
+      "no_plan": 7,
+      "time": 67.5999999999983,
+      "tags": {
+        "stop": 7,
+        "cruise": 22,
+        "slow_nudge": 107
+      }
+    },
+    {
+      "mode": "gt",
+      "seed": 4,
+      "success": true,
+      "collided": false,
+      "reached": true,
+      "min_clearance": 0.5031373902438212,
+      "cte_rms": 0.15582428147827845,
+      "cte_max": 0.27790711838123416,
+      "loc_rms": 0.0,
+      "loc_max": 0.0,
+      "no_plan": 7,
+      "time": 67.5999999999983,
+      "tags": {
+        "stop": 7,
+        "cruise": 22,
+        "slow_nudge": 107
+      }
+    },
+    {
+      "mode": "gt",
+      "seed": 5,
+      "success": true,
+      "collided": false,
+      "reached": true,
+      "min_clearance": 0.5031373902438212,
+      "cte_rms": 0.15582428147827845,
+      "cte_max": 0.27790711838123416,
+      "loc_rms": 0.0,
+      "loc_max": 0.0,
+      "no_plan": 7,
+      "time": 67.5999999999983,
+      "tags": {
+        "stop": 7,
+        "cruise": 22,
+        "slow_nudge": 107
+      }
+    },
+    {
+      "mode": "gt",
+      "seed": 6,
+      "success": true,
+      "collided": false,
+      "reached": true,
+      "min_clearance": 0.5031373902438212,
+      "cte_rms": 0.15582428147827845,
+      "cte_max": 0.27790711838123416,
+      "loc_rms": 0.0,
+      "loc_max": 0.0,
+      "no_plan": 7,
+      "time": 67.5999999999983,
+      "tags": {
+        "stop": 7,
+        "cruise": 22,
+        "slow_nudge": 107
+      }
+    },
+    {
+      "mode": "gt",
+      "seed": 7,
+      "success": true,
+      "collided": false,
+      "reached": true,
+      "min_clearance": 0.5031373902438212,
+      "cte_rms": 0.15582428147827845,
+      "cte_max": 0.27790711838123416,
+      "loc_rms": 0.0,
+      "loc_max": 0.0,
+      "no_plan": 7,
+      "time": 67.5999999999983,
+      "tags": {
+        "stop": 7,
+        "cruise": 22,
+        "slow_nudge": 107
+      }
+    },
+    {
+      "mode": "gt",
+      "seed": 8,
+      "success": true,
+      "collided": false,
+      "reached": true,
+      "min_clearance": 0.5031373902438212,
+      "cte_rms": 0.15582428147827845,
+      "cte_max": 0.27790711838123416,
+      "loc_rms": 0.0,
+      "loc_max": 0.0,
+      "no_plan": 7,
+      "time": 67.5999999999983,
+      "tags": {
+        "stop": 7,
+        "cruise": 22,
+        "slow_nudge": 107
+      }
+    },
+    {
+      "mode": "gt",
+      "seed": 9,
+      "success": true,
+      "collided": false,
+      "reached": true,
+      "min_clearance": 0.5031373902438212,
+      "cte_rms": 0.15582428147827845,
+      "cte_max": 0.27790711838123416,
+      "loc_rms": 0.0,
+      "loc_max": 0.0,
+      "no_plan": 7,
+      "time": 67.5999999999983,
+      "tags": {
+        "stop": 7,
+        "cruise": 22,
+        "slow_nudge": 107
+      }
+    },
+    {
+      "mode": "ndt",
+      "seed": 0,
+      "success": true,
+      "collided": false,
+      "reached": true,
+      "min_clearance": 0.4998918261868013,
+      "cte_rms": 0.15378074527071872,
+      "cte_max": 0.27194585887237727,
+      "loc_rms": 0.024483749358486618,
+      "loc_max": 0.18871149099183163,
+      "no_plan": 8,
+      "time": 68.14999999999827,
+      "tags": {
+        "stop": 8,
+        "cruise": 22,
+        "slow_nudge": 107
+      }
+    },
+    {
+      "mode": "ndt",
+      "seed": 1,
+      "success": true,
+      "collided": false,
+      "reached": true,
+      "min_clearance": 0.492058320570228,
+      "cte_rms": 0.15437163946306381,
+      "cte_max": 0.2775476971481327,
+      "loc_rms": 0.03627625305767884,
+      "loc_max": 0.3774933349823831,
+      "no_plan": 5,
+      "time": 66.49999999999837,
+      "tags": {
+        "stop": 5,
+        "cruise": 20,
+        "slow_nudge": 108
+      }
+    },
+    {
+      "mode": "ndt",
+      "seed": 2,
+      "success": true,
+      "collided": false,
+      "reached": true,
+      "min_clearance": 0.4523209679326341,
+      "cte_rms": 0.15358806447497728,
+      "cte_max": 0.2638904759822501,
+      "loc_rms": 0.03332387600675893,
+      "loc_max": 0.3125129489123487,
+      "no_plan": 7,
+      "time": 67.6999999999983,
+      "tags": {
+        "stop": 7,
+        "cruise": 23,
+        "slow_nudge": 106
+      }
+    },
+    {
+      "mode": "ndt",
+      "seed": 3,
+      "success": true,
+      "collided": false,
+      "reached": true,
+      "min_clearance": 0.5152206070382828,
+      "cte_rms": 0.15457524025898134,
+      "cte_max": 0.2764072897108101,
+      "loc_rms": 0.03865229925489018,
+      "loc_max": 0.47146889913755735,
+      "no_plan": 5,
+      "time": 66.54999999999836,
+      "tags": {
+        "stop": 5,
+        "cruise": 22,
+        "slow_nudge": 107
+      }
+    },
+    {
+      "mode": "ndt",
+      "seed": 4,
+      "success": true,
+      "collided": false,
+      "reached": true,
+      "min_clearance": 0.47154239209642745,
+      "cte_rms": 0.15723475699421793,
+      "cte_max": 0.26233432484824504,
+      "loc_rms": 0.027493967946812525,
+      "loc_max": 0.24049711323433196,
+      "no_plan": 2,
+      "time": 65.04999999999845,
+      "tags": {
+        "stop": 2,
+        "cruise": 22,
+        "slow_nudge": 107
+      }
+    },
+    {
+      "mode": "ndt",
+      "seed": 5,
+      "success": true,
+      "collided": false,
+      "reached": true,
+      "min_clearance": 0.492879272665147,
+      "cte_rms": 0.1549850790225087,
+      "cte_max": 0.2699591637502705,
+      "loc_rms": 0.021610873530501336,
+      "loc_max": 0.13517419422698929,
+      "no_plan": 6,
+      "time": 67.04999999999833,
+      "tags": {
+        "stop": 6,
+        "cruise": 21,
+        "slow_nudge": 108
+      }
+    },
+    {
+      "mode": "ndt",
+      "seed": 6,
+      "success": true,
+      "collided": false,
+      "reached": true,
+      "min_clearance": 0.4559243540941076,
+      "cte_rms": 0.15695231540921603,
+      "cte_max": 0.2626016114006971,
+      "loc_rms": 0.04158327646813823,
+      "loc_max": 0.4290649062885366,
+      "no_plan": 4,
+      "time": 66.19999999999838,
+      "tags": {
+        "stop": 4,
+        "cruise": 23,
+        "slow_nudge": 106
+      }
+    },
+    {
+      "mode": "ndt",
+      "seed": 7,
+      "success": true,
+      "collided": false,
+      "reached": true,
+      "min_clearance": 0.4872613573318396,
+      "cte_rms": 0.15474431977541972,
+      "cte_max": 0.26750040834596434,
+      "loc_rms": 0.032417583935451834,
+      "loc_max": 0.26581075140341176,
+      "no_plan": 6,
+      "time": 67.04999999999833,
+      "tags": {
+        "stop": 6,
+        "cruise": 21,
+        "slow_nudge": 108
+      }
+    },
+    {
+      "mode": "ndt",
+      "seed": 8,
+      "success": true,
+      "collided": false,
+      "reached": true,
+      "min_clearance": 0.5160977610889244,
+      "cte_rms": 0.15562602619076116,
+      "cte_max": 0.27395574687445023,
+      "loc_rms": 0.025336299862550777,
+      "loc_max": 0.20735273739517893,
+      "no_plan": 5,
+      "time": 66.54999999999836,
+      "tags": {
+        "stop": 5,
+        "cruise": 22,
+        "slow_nudge": 107
+      }
+    },
+    {
+      "mode": "ndt",
+      "seed": 9,
+      "success": true,
+      "collided": false,
+      "reached": true,
+      "min_clearance": 0.4599035186785694,
+      "cte_rms": 0.15377016317530812,
+      "cte_max": 0.2695795202963045,
+      "loc_rms": 0.02426875670103296,
+      "loc_max": 0.191306697144183,
+      "no_plan": 7,
+      "time": 67.5999999999983,
+      "tags": {
+        "stop": 7,
+        "cruise": 22,
+        "slow_nudge": 107
+      }
+    },
+    {
+      "mode": "dr",
+      "seed": 0,
+      "success": false,
+      "collided": true,
+      "reached": false,
+      "min_clearance": -0.029922465619755367,
+      "cte_rms": 0.5087362875223579,
+      "cte_max": 0.8603648218442554,
+      "loc_rms": 0.5414881688686688,
+      "loc_max": 1.1028501231640502,
+      "no_plan": 1,
+      "time": 19.500000000000142,
+      "tags": {
+        "stop": 1,
+        "cruise": 5,
+        "slow_nudge": 33
+      }
+    },
+    {
+      "mode": "dr",
+      "seed": 1,
+      "success": false,
+      "collided": true,
+      "reached": false,
+      "min_clearance": -0.1935044576123266,
+      "cte_rms": 1.1751245365828586,
+      "cte_max": 2.37250123943461,
+      "loc_rms": 1.3987070651389149,
+      "loc_max": 2.372501239434614,
+      "no_plan": 0,
+      "time": 24.95000000000022,
+      "tags": {
+        "cruise": 5,
+        "slow_nudge": 45
+      }
+    },
+    {
+      "mode": "dr",
+      "seed": 2,
+      "success": false,
+      "collided": true,
+      "reached": false,
+      "min_clearance": -0.09493249907174633,
+      "cte_rms": 0.5097705089952651,
+      "cte_max": 1.1732914494016873,
+      "loc_rms": 0.5148571535799585,
+      "loc_max": 1.3154750923157952,
+      "no_plan": 2,
+      "time": 19.650000000000144,
+      "tags": {
+        "stop": 2,
+        "cruise": 5,
+        "slow_nudge": 33
+      }
+    },
+    {
+      "mode": "dr",
+      "seed": 3,
+      "success": false,
+      "collided": true,
+      "reached": false,
+      "min_clearance": -0.028796686693185025,
+      "cte_rms": 0.3742805738594233,
+      "cte_max": 1.2179148409303604,
+      "loc_rms": 0.49249172645952727,
+      "loc_max": 1.2517625916834503,
+      "no_plan": 2,
+      "time": 54.19999999999906,
+      "tags": {
+        "stop": 2,
+        "cruise": 10,
+        "slow_nudge": 97
+      }
+    },
+    {
+      "mode": "dr",
+      "seed": 4,
+      "success": false,
+      "collided": true,
+      "reached": false,
+      "min_clearance": -0.07662587403733845,
+      "cte_rms": 0.5835001424457334,
+      "cte_max": 1.6387231624098466,
+      "loc_rms": 0.705634241741819,
+      "loc_max": 1.6842311619028016,
+      "no_plan": 2,
+      "time": 25.65000000000023,
+      "tags": {
+        "stop": 2,
+        "cruise": 5,
+        "slow_nudge": 45
+      }
+    },
+    {
+      "mode": "dr",
+      "seed": 5,
+      "success": false,
+      "collided": true,
+      "reached": false,
+      "min_clearance": -0.012881563646913896,
+      "cte_rms": 0.30736809247969393,
+      "cte_max": 0.6621142437022176,
+      "loc_rms": 0.3908107126397875,
+      "loc_max": 0.67124142336276,
+      "no_plan": 1,
+      "time": 19.150000000000137,
+      "tags": {
+        "cruise": 5,
+        "slow_nudge": 34
+      }
+    },
+    {
+      "mode": "dr",
+      "seed": 6,
+      "success": false,
+      "collided": true,
+      "reached": false,
+      "min_clearance": -0.0687142262219611,
+      "cte_rms": 0.34080249562648196,
+      "cte_max": 0.708080586608509,
+      "loc_rms": 0.309258815449302,
+      "loc_max": 0.7023081259088914,
+      "no_plan": 0,
+      "time": 10.15000000000001,
+      "tags": {
+        "cruise": 5,
+        "slow_nudge": 16
+      }
+    },
+    {
+      "mode": "dr",
+      "seed": 7,
+      "success": false,
+      "collided": true,
+      "reached": false,
+      "min_clearance": -0.09299227622821693,
+      "cte_rms": 0.4270893232569374,
+      "cte_max": 1.1275166782277046,
+      "loc_rms": 0.5702370917507625,
+      "loc_max": 1.158904287107316,
+      "no_plan": 2,
+      "time": 25.850000000000232,
+      "tags": {
+        "stop": 2,
+        "cruise": 5,
+        "slow_nudge": 45
+      }
+    },
+    {
+      "mode": "dr",
+      "seed": 8,
+      "success": false,
+      "collided": true,
+      "reached": false,
+      "min_clearance": -0.1228864645716709,
+      "cte_rms": 0.44344336740414014,
+      "cte_max": 1.0648832666485073,
+      "loc_rms": 0.46871617157134515,
+      "loc_max": 1.0577281418651407,
+      "no_plan": 0,
+      "time": 18.70000000000013,
+      "tags": {
+        "cruise": 5,
+        "slow_nudge": 33
+      }
+    },
+    {
+      "mode": "dr",
+      "seed": 9,
+      "success": false,
+      "collided": true,
+      "reached": false,
+      "min_clearance": -0.1078343764620695,
+      "cte_rms": 0.49567871239771844,
+      "cte_max": 1.013546017887495,
+      "loc_rms": 0.759293727227686,
+      "loc_max": 1.6609606957693017,
+      "no_plan": 5,
+      "time": 55.39999999999899,
+      "tags": {
+        "stop": 5,
+        "cruise": 11,
+        "slow_nudge": 95
+      }
+    }
+  ]
+}

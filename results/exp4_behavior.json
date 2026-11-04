@@ -1,0 +1,80 @@
+{
+  "BT": {
+    "success": 296,
+    "n": 300,
+    "collisions": {
+      "lead": 2,
+      "oncoming": 2
+    },
+    "timeouts": 0,
+    "time": 84.4378378378373,
+    "overtakes": 48,
+    "aborts": 20,
+    "hard_brakes": 0.9966666666666667,
+    "emergency": 7,
+    "switches": 9.09,
+    "success_surprise": 146,
+    "n_surprise": 150
+  },
+  "FSM-basic": {
+    "success": 142,
+    "n": 300,
+    "collisions": {
+      "roundabout": 147,
+      "lead": 11
+    },
+    "timeouts": 0,
+    "time": 78.58873239436596,
+    "overtakes": 48,
+    "aborts": 0,
+    "hard_brakes": 0.5266666666666666,
+    "emergency": 22,
+    "switches": 5.41,
+    "success_surprise": 67,
+    "n_surprise": 150
+  },
+  "FSM-full": {
+    "success": 298,
+    "n": 300,
+    "collisions": {
+      "oncoming": 2
+    },
+    "timeouts": 0,
+    "time": 86.62147651006646,
+    "overtakes": 48,
+    "aborts": 20,
+    "hard_brakes": 0.9666666666666667,
+    "emergency": 7,
+    "switches": 9.55,
+    "success_surprise": 148,
+    "n_surprise": 150
+  },
+  "FSM-full, no RB re-check": {
+    "success": 149,
+    "n": 300,
+    "collisions": {
+      "roundabout": 149,
+      "oncoming": 2
+    },
+    "timeouts": 0,
+    "time": 79.61610738255006,
+    "overtakes": 45,
+    "aborts": 22,
+    "hard_brakes": 0.5366666666666666,
+    "emergency": 7,
+    "switches": 5.653333333333333,
+    "success_surprise": 74,
+    "n_surprise": 150
+  },
+  "structure": {
+    "bt_nodes": 26,
+    "bt_conditions": 9,
+    "bt_actions": 8,
+    "bt_composites": 9,
+    "fsm_states": 10,
+    "fsm_transitions_basic": 24,
+    "fsm_transitions_full": 38,
+    "bt_add_behaviour": 3,
+    "fsm_add_behaviour": 11
+  }
+}

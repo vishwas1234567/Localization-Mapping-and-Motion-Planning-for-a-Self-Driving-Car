@@ -1,0 +1,135 @@
+{
+  "parking": {
+    "Perpendicular parking": {
+      "hybrid": {
+        "found": 6,
+        "feasible": 6,
+        "n": 6,
+        "time": 0.8892788489659628,
+        "expansions": 805.3333333333334,
+        "length": 22.36055748910282,
+        "cusps": 0.0,
+        "max_kappa": 0.21209376015263537,
+        "end_err": 6.344134136029125e-15
+      },
+      "grid": {
+        "found": 6,
+        "feasible": 0,
+        "n": 6,
+        "length": 20.991922189506653,
+        "max_kappa": 2.602580569137146,
+        "corners": 28.333333333333332,
+        "collision_frac": 0.2075327458168527,
+        "goal_heading_err_deg": 45.0
+      },
+      "grid_smooth": {
+        "found": 6,
+        "feasible": 0,
+        "n": 6,
+        "length": 20.578309959717057,
+        "max_kappa": 3.9639357184818196,
+        "corners": 0.0,
+        "collision_frac": 0.22536759116048852,
+        "goal_heading_err_deg": 45.0
+      }
+    },
+    "Parallel parking": {
+      "hybrid": {
+        "found": 4,
+        "feasible": 4,
+        "n": 6,
+        "time": 13.703618466854095,
+        "expansions": 14376.0,
+        "length": 9.643010398381668,
+        "cusps": 3.0,
+        "max_kappa": 0.2120957021460522,
+        "end_err": 0.14537693710424973
+      },
+      "grid": {
+        "found": 6,
+        "feasible": 0,
+        "n": 6,
+        "length": 6.619375293800228,
+        "max_kappa": 2.1688171409476245,
+        "corners": 8.5,
+        "collision_frac": 0.6616487678987678,
+        "goal_heading_err_deg": 172.5
+      },
+      "grid_smooth": {
+        "found": 6,
+        "feasible": 0,
+        "n": 6,
+        "length": 6.4952916248633485,
+        "max_kappa": 3.3032797654015162,
+        "corners": 0.0,
+        "collision_frac": 0.6715363802863803,
+        "goal_heading_err_deg": 172.5
+      }
+    },
+    "K-turn in a narrow street": {
+      "hybrid": {
+        "found": 6,
+        "feasible": 6,
+        "n": 6,
+        "time": 9.345529754956564,
+        "expansions": 9474.666666666666,
+        "length": 29.200520704576068,
+        "cusps": 4.0,
+        "max_kappa": 0.212095702146053,
+        "end_err": 3.557960792212028e-15
+      },
+      "grid": {
+        "found": 6,
+        "feasible": 0,
+        "n": 6,
+        "length": 2.7458122890254857,
+        "max_kappa": 1.7350537127580974,
+        "corners": 1.1666666666666667,
+        "collision_frac": 0.5656565656565656,
+        "goal_heading_err_deg": 97.5
+      },
+      "grid_smooth": {
+        "found": 6,
+        "feasible": 0,
+        "n": 6,
+        "length": 2.7287811972106204,
+        "max_kappa": 2.642623812321213,
+        "corners": 0.0,
+        "collision_frac": 0.5762310606060606,
+        "goal_heading_err_deg": 97.5
+      }
+    }
+  },
+  "lattice": {
+    "quintic": {
+      "ok": 16,
+      "n": 20,
+      "collision_free": 16,
+      "max_kappa": [
+        0.0747705279329812,
+        0.014812448498617068
+      ],
+      "max_dkappa": [
+        0.07339737934578286,
+        0.00413086375342522
+      ],
+      "plan_fails": 45
+    },
+    "linear": {
+      "ok": 0,
+      "n": 20,
+      "collision_free": 16,
+      "max_kappa": [
+        0.6735143243193629,
+        0.2510676574668314
+      ],
+      "max_dkappa": [
+        2.613080083025487,
+        0.9673365058876393
+      ],
+      "plan_fails": 66
+    }
+  },
+  "kappa_limit": 0.21205993713024754,
+  "rho": 4.715647913192573
+}
